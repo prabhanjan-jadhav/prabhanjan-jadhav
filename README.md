@@ -22,7 +22,7 @@
 
 <br>
 
-## LinkedIn Activity
+###### LinkedIn Activity
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
