@@ -5,6 +5,12 @@
   <img src="https://gpvc.arturio.dev/prabhanjan-jadhav" alt="profile views">
 </p>
 
+
+🏫Currently I’m studying at Indian Institute of Technology, Guwahati. 
+
+🌱 I’m currently learning *everything*!:sweat_smile:
+
+
 <br>
   
 [![Prabhanjan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhanjan-jadhav&theme=tokyonight)](https://git.io/praveenscience)
@@ -16,8 +22,9 @@
 
 <br>
 
-
-🏫Currently I’m studying at Indian Institute of Technology, Guwahati. 
+## LinkedIn Activity
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 📫 How to reach me: [Instagram](https://www.instagram.com/prabhanjanjadhav273/), [Facebook](https://www.facebook.com/profile.php?id=100075065617822), [LinkedIn](https://www.linkedin.com/in/prabhanjan-jadhav-18a176224/)
 <!--
