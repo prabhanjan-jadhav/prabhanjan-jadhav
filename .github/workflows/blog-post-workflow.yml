@@ -1,4 +1,4 @@
-name: LinkedIn Activity
+name: Blog Activity
 on:
   schedule:
     # Runs every hour
