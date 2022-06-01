@@ -1,4 +1,4 @@
-name: LinkedIn activity workflow
+name: LinkedIn Activity
 on:
   schedule:
     # Runs each day
