@@ -24,6 +24,11 @@
 
 ###### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [24th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=VfV2T9YX_s8)
+- [Visit of Hon&#39;ble Minister of External Affairs Shri S. Jaishankar Ji](https://www.youtube.com/watch?v=vyOviWbD7dA)
+- [Valedictory Session of NERC-2022 and ABC-2022](https://www.youtube.com/watch?v=N19Op3ZAUxQ)
+- [NERC 2022: Showcasing the Rich Cultural Heritage of North-Eastern India - Day 2](https://www.youtube.com/watch?v=iypIAyNTSrM)
+- [NERC 2022: Dedicated Session on North-East Industry-Academia R &amp; D Ecosystem &amp; Related Policies](https://www.youtube.com/watch?v=GC0NpbGUkzA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 📫 How to reach me: [Instagram](https://www.instagram.com/prabhanjanjadhav273/), [Facebook](https://www.facebook.com/profile.php?id=100075065617822), [LinkedIn](https://www.linkedin.com/in/prabhanjan-jadhav-18a176224/)
