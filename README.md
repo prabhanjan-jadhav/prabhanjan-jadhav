@@ -22,9 +22,9 @@
 
 <br>
 
-###### Blog Activity
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+###### Youtube video list
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 📫 How to reach me: [Instagram](https://www.instagram.com/prabhanjanjadhav273/), [Facebook](https://www.facebook.com/profile.php?id=100075065617822), [LinkedIn](https://www.linkedin.com/in/prabhanjan-jadhav-18a176224/)
 <!--
