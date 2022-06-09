@@ -22,7 +22,7 @@
 
 <br>
 
-###### Youtube video list
+###### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
