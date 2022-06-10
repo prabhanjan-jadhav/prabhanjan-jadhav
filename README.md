@@ -1,7 +1,8 @@
-<h1> Howdy-doody:grey_question: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Howdy-doody:grey_question:  </h1>
 <p align='center'>
 </p>
 <p align="right">
+  <img src="https://img.shields.io/github/forks/prabhanjan-jadhav/prabhanjan-jadhav?style=social"></img>
   <img src="https://gpvc.arturio.dev/prabhanjan-jadhav" alt="profile views">
 </p>
 
@@ -19,10 +20,10 @@
 | --- | --- |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=prabhanjan-jadhav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
-
 <br>
 
-###### Some videos from IITG's YouTube Channel
+
+##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [24th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=VfV2T9YX_s8)
 - [Visit of Hon&#39;ble Minister of External Affairs Shri S. Jaishankar Ji](https://www.youtube.com/watch?v=vyOviWbD7dA)
@@ -30,8 +31,15 @@
 - [NERC 2022: Showcasing the Rich Cultural Heritage of North-Eastern India - Day 2](https://www.youtube.com/watch?v=iypIAyNTSrM)
 - [NERC 2022: Dedicated Session on North-East Industry-Academia R &amp; D Ecosystem &amp; Related Policies](https://www.youtube.com/watch?v=GC0NpbGUkzA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+<p align="left">
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+</p>
 
 📫 How to reach me: [Instagram](https://www.instagram.com/prabhanjanjadhav273/), [Facebook](https://www.facebook.com/profile.php?id=100075065617822), [LinkedIn](https://www.linkedin.com/in/prabhanjan-jadhav-18a176224/)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 <!--
 **prabhanjan-jadhav/prabhanjan-jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
