@@ -13,8 +13,6 @@
 
 
 <br>
-  
-[![Prabhanjan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhanjan-jadhav&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Prabhanjan's github stats](https://github-readme-stats.vercel.app/api?username=prabhanjan-jadhav&show_icons=true&theme=tokyonight) | ![Prabhanjan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhanjan-jadhav&theme=tokyonight) |
 | --- | --- |
