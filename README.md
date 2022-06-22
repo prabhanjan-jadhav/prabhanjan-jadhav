@@ -23,11 +23,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Inauguration of Socio-Technological Aspect of Seismic Disaster Management](https://www.youtube.com/watch?v=ADZRdYEW9vw)
 - [8th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=HIEGgEuh-lo)
 - [24th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=VfV2T9YX_s8)
 - [Visit of Hon&#39;ble Minister of External Affairs Shri S. Jaishankar Ji](https://www.youtube.com/watch?v=vyOviWbD7dA)
 - [Valedictory Session of NERC-2022 and ABC-2022](https://www.youtube.com/watch?v=N19Op3ZAUxQ)
-- [NERC 2022: Showcasing the Rich Cultural Heritage of North-Eastern India - Day 2](https://www.youtube.com/watch?v=iypIAyNTSrM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
