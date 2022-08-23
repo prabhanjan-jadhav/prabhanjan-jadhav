@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [13th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=LBDxG09Xzak)
+- [15th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=VnzHR7who7s)
+- [14th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=_8CHUnXxayY)
 - [Independence Day Celebration 2022: Cultural program on patriotism](https://www.youtube.com/watch?v=71eUY3BHIpE)
 - [76th Independence Day Celebrations at IIT Guwahati, 15 Aug, 2022](https://www.youtube.com/watch?v=pO_xDhiJso0)
-- [Prof. Shamika Ravi delivered an expert talk on the book &quot;Modi @20: Dreams Meet Delivery&quot;](https://www.youtube.com/watch?v=G5dO7CDa-Vw)
-- [24th Convocation: Director&#39;s Report](https://www.youtube.com/watch?v=axszGKhdJPs)
-- [24th Convocation of IIT Guwahati: Speech of Guests of Honor, Shri Rahul Mehta](https://www.youtube.com/watch?v=HKFr06hFLB0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
