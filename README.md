@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [29th Foundation Day of IIT Guwahati](https://www.youtube.com/watch?v=iNwbsbSE24I)
 - [13th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=LBDxG09Xzak)
 - [15th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=VnzHR7who7s)
 - [14th August #azadikaamritmahotsav #iitguwahati #indiaat75](https://www.youtube.com/watch?v=_8CHUnXxayY)
 - [Independence Day Celebration 2022: Cultural program on patriotism](https://www.youtube.com/watch?v=71eUY3BHIpE)
-- [76th Independence Day Celebrations at IIT Guwahati, 15 Aug, 2022](https://www.youtube.com/watch?v=pO_xDhiJso0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
