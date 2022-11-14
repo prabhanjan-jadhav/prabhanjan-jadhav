@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Inauguration Ceremony of the third conference, as a part of the Agni Tattva Campaign.](https://www.youtube.com/watch?v=HL_SZyEeMG0)
 - [Valedictory Ceremony - Science &amp; Technology Empowerment of Tribal Community](https://www.youtube.com/watch?v=wAwz8DpEu68)
 - [Inaugural Ceremony - Science &amp; Technology Empowerment of Tribal Community](https://www.youtube.com/watch?v=bEMCb8ZL0ME)
 - [Hon&#39;ble Prime Minister talked in mannkibaat about the  IInvenTive2022.](https://www.youtube.com/watch?v=imih5R1xcTc)
 - [Visit of Hon’ble President of India, Government of India at IIT Guwahati](https://www.youtube.com/watch?v=usQ_Ie-7tMs)
-- [IIT Guwahati Open House for 2022 UG Admissions](https://www.youtube.com/watch?v=MiArRERmG98)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
