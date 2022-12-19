@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NERC 2022](https://www.youtube.com/watch?v=XG0d15o8oO0)
 - [Graduation   Ceremony 2022 &lpar;Batch 2020 &amp; 2021&rpar; and  Alumni Award Ceremony](https://www.youtube.com/watch?v=DSghl6E7XJ0)
 - [Awareness  Workshop on National Credit Framework](https://www.youtube.com/watch?v=X0Z4M5Y289Y)
 - [Inauguration Ceremony of the third conference, as a part of the Agni Tattva Campaign.](https://www.youtube.com/watch?v=HL_SZyEeMG0)
 - [Valedictory Ceremony - Science &amp; Technology Empowerment of Tribal Community](https://www.youtube.com/watch?v=wAwz8DpEu68)
-- [Inaugural Ceremony - Science &amp; Technology Empowerment of Tribal Community](https://www.youtube.com/watch?v=bEMCb8ZL0ME)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
