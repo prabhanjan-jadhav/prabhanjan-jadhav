@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [The liquid marbles that were dropped directly on the water pool is also remained stable](https://www.youtube.com/watch?v=jcONCnnESsA)
-- [Dr Uttam Manna Video byte](https://www.youtube.com/watch?v=ddjWxjIkajY)
-- [Programmed cascade liquid release and chemical reaction](https://www.youtube.com/watch?v=ESsCVkEQ3hU)
-- [Stable Nanoclay liquid marbles](https://www.youtube.com/watch?v=f3_J3Y99wM4)
+- [IIT Guwahati Researches develop &#39;Time Bomb&#39; liquid marbles for controlled drug delivery](https://www.youtube.com/watch?v=ddjWxjIkajY)
 - [Pitha](https://www.youtube.com/watch?v=kkhb0pFgosc)
+- [Youth 20 Inception Meeting](https://www.youtube.com/watch?v=wXTbFMGj3U0)
+- [74th Republic Day Celebration at IIT Guwahati, 26 Jan, 2023](https://www.youtube.com/watch?v=d8HM37diRSQ)
+- [NERC 2022](https://www.youtube.com/watch?v=XG0d15o8oO0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
