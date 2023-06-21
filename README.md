@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [9th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=MMOffjBT3gU)
 - [IITG Researchers develop catalyst to produce Sustainable Green Hydrogen fuel along with formic acid](https://www.youtube.com/watch?v=GO9z13iHvnY)
 - [IIT Guwahati Researches develop &#39;Time Bomb&#39; liquid marbles for controlled drug delivery](https://www.youtube.com/watch?v=ddjWxjIkajY)
 - [Pitha](https://www.youtube.com/watch?v=kkhb0pFgosc)
 - [Youth 20 Inception Meeting](https://www.youtube.com/watch?v=wXTbFMGj3U0)
-- [74th Republic Day Celebration at IIT Guwahati, 26 Jan, 2023](https://www.youtube.com/watch?v=d8HM37diRSQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
