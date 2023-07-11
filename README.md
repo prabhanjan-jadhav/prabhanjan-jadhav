@@ -21,11 +21,9 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Research Stories: AI-based model to Predict Knee Osteoarthritis Severity from X-ray Images](https://www.youtube.com/watch?v=juVFbAPb8F8)
-- [25th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=foPlfOc5Eyg)
-- [IIT Guwahati Open House for 2023 UG Admissions](https://www.youtube.com/watch?v=bs7L3krVtBk)
-- [9th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=MMOffjBT3gU)
-- [IITG Researchers develop catalyst to produce Sustainable Green Hydrogen fuel along with formic acid](https://www.youtube.com/watch?v=GO9z13iHvnY)
+- [Youth 20 Inception Meeting](https://www.youtube.com/watch?v=wXTbFMGj3U0)
+- [NERC 2022](https://www.youtube.com/watch?v=XG0d15o8oO0)
+- [Awareness  Workshop on National Credit Framework](https://www.youtube.com/watch?v=X0Z4M5Y289Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
