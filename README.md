@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Welcome by Director](https://www.youtube.com/watch?v=SK8MSEYgFaU)
+- [BScDSAI Programme Overview](https://www.youtube.com/watch?v=qLPQGiBq-Po)
 - [Press Conference on National Education Policy, 2020](https://www.youtube.com/watch?v=XGCVfNQeXLk)
 - [Research Stories: AI-based model to Predict Knee Osteoarthritis Severity from X-ray Images](https://www.youtube.com/watch?v=juVFbAPb8F8)
 - [25th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=foPlfOc5Eyg)
-- [IIT Guwahati Open House for 2023 UG Admissions](https://www.youtube.com/watch?v=bs7L3krVtBk)
-- [9th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=MMOffjBT3gU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
