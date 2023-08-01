@@ -21,7 +21,7 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Welcome by Director](https://www.youtube.com/watch?v=SK8MSEYgFaU)
+- [Welcome by Director #bsc  #iitguwahati #datascience #artificialintelligence](https://www.youtube.com/watch?v=SK8MSEYgFaU)
 - [B.Sc. in DSAI Programme Overview #iitguwahati #bsc #datascience](https://www.youtube.com/watch?v=qLPQGiBq-Po)
 - [Press Conference on National Education Policy, 2020](https://www.youtube.com/watch?v=XGCVfNQeXLk)
 - [Research Stories: AI-based model to Predict Knee Osteoarthritis Severity from X-ray Images](https://www.youtube.com/watch?v=juVFbAPb8F8)
