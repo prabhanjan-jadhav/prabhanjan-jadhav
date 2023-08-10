@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Apt AuNP is able to quantify K  pneumoniae targeted bacteria](https://www.youtube.com/watch?v=zaFakGH6udI)
+- [Dr. Partho Sarathi Gooh Pattader on device to detect specific bacteria that cause UTI](https://www.youtube.com/watch?v=4YQvo87UWTM)
 - [77th Independence Day Celebrations at IIT Guwahati, 15 Aug, 2023](https://www.youtube.com/watch?v=5I81U8iMIFA)
 - [IIT Guwahati BSc &lpar;Hons.&rpar; in Data Science and Artificial Intelligence | Program Overview](https://www.youtube.com/watch?v=PpezQI4uIpk)
 - [IIT Guwahati BSc &lpar;Hons.&rpar; in Data Science and Artificial Intelligence | Director&#39;s Message](https://www.youtube.com/watch?v=SK8MSEYgFaU)
-- [Press Conference on National Education Policy, 2020](https://www.youtube.com/watch?v=XGCVfNQeXLk)
-- [Research Stories: AI-based model to Predict Knee Osteoarthritis Severity from X-ray Images](https://www.youtube.com/watch?v=juVFbAPb8F8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
