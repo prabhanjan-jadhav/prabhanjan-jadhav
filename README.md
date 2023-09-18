@@ -21,8 +21,8 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Prof. M. Purkait on development of pharmaceutical and food products from Tea Factory Waste.](https://www.youtube.com/watch?v=CIFaz1KiiuA)
 - [Viksit Bharat@2047: A Development - Dialogue  at Indian Institute of Technology Guwahati](https://www.youtube.com/watch?v=oxhDy2tHyfI)
+- [Prof. M. Purkait on development of pharmaceutical and food products from Tea Factory Waste.](https://www.youtube.com/watch?v=CIFaz1KiiuA)
 - [International Workshop on Changing Precipitation-Flood-Precipitation Coupled Cycle in NE Region](https://www.youtube.com/watch?v=8S8gGrETEzo)
 - [Team led by #iitguwahati produces Pluripotent #stemcells from Skin Cells #research](https://www.youtube.com/watch?v=ewxdXyi9jfQ)
 - [77th Independence Day Celebrations at IIT Guwahati, 15 Aug, 2023](https://www.youtube.com/watch?v=5I81U8iMIFA)
