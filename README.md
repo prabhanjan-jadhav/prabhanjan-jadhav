@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories: Point-of-Care device for Instant Glycemic Index detection of Fast Food](https://www.youtube.com/watch?v=HSBhXy4_8SI)
 - [Viksit Bharat@2047: Transformation of Healthcare in Amrit Kaal](https://www.youtube.com/watch?v=tz0lHVdB1nE)
 - [Foundation Stone Laying and Inauguration Ceremony of various Health Infrastructure Projects in Assam](https://www.youtube.com/watch?v=cB7NvhZ215U)
 - [Research Stories : MobilabTM, a portable device for Diagnosis of Chronic Non-Communicable Diseases](https://www.youtube.com/watch?v=GJdmfQsWNrg)
 - [Viksit Bharat@2047: A Development - Dialogue  at Indian Institute of Technology Guwahati](https://www.youtube.com/watch?v=oxhDy2tHyfI)
-- [Research Stories: Prof. M. Purkait on development of pharma &amp; food products from Tea Factory Waste](https://www.youtube.com/watch?v=CIFaz1KiiuA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
