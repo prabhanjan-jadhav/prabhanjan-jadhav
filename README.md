@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [MoU signing for the Digital Nerve Center](https://www.youtube.com/watch?v=YuZcmGeAHDA)
 - [IIT Guwahati incubated #startup ‘Quant Solar’ pioneers Floating Solar Technology #iitguwahati](https://www.youtube.com/watch?v=2W44HLz28CA)
 - [Research Stories: Bridge Biomedical Innovation and Hands-on Education #iitguwahati](https://www.youtube.com/watch?v=Ns1qKyLU0Wo)
 - [A talk by Dr. Rosie Kalita, APS, SP as part of Vigilance Awareness Week 2023 at #iitguwahati](https://www.youtube.com/watch?v=Tn1OULMLEg8)
 - [Research stories: BetaTANK&#39;s robots to use for cleaning petroleum tanks. #iitguwahati #robotics](https://www.youtube.com/watch?v=7V9HJw1p4LM)
-- [Research Stories: Point-of-Care device for Instant Glycemic Index detection of Fast Food](https://www.youtube.com/watch?v=HSBhXy4_8SI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
