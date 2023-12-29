@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [IIT Guwahati successfully hosted 3311 students under #Arohan to promote STEM Education in Assam.](https://www.youtube.com/watch?v=5VmKHZSoBzw)
 - [Research Stories: #iitguwahati&#39;s BRAHMA-2D Model Revolutionizes Hydraulic Design for SRM](https://www.youtube.com/watch?v=TG5fry_Nr0M)
 - [MoU signing for the Digital Nerve Center](https://www.youtube.com/watch?v=YuZcmGeAHDA)
 - [IIT Guwahati incubated #startup ‘Quant Solar’ pioneers Floating Solar Technology #iitguwahati](https://www.youtube.com/watch?v=2W44HLz28CA)
 - [Research Stories: Bridge Biomedical Innovation and Hands-on Education #iitguwahati](https://www.youtube.com/watch?v=Ns1qKyLU0Wo)
-- [A talk by Dr. Rosie Kalita, APS, SP as part of Vigilance Awareness Week 2023 at #iitguwahati](https://www.youtube.com/watch?v=Tn1OULMLEg8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
