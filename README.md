@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [75th Republic Day Celebration at IIT Guwahati, 26 Jan, 2024](https://www.youtube.com/watch?v=KDFzfiTG9Gs)
 - [ENTREPRENEURSHIP &amp; RURAL DEVELOPMENT CONCLAVE 2024](https://www.youtube.com/watch?v=hsuXbwjE0Kw)
 - [IIT Guwahati successfully hosted 3311 students under #Arohan to promote STEM Education in Assam.](https://www.youtube.com/watch?v=5VmKHZSoBzw)
 - [Research Stories: #iitguwahati&#39;s BRAHMA-2D Model Revolutionizes Hydraulic Design for SRM](https://www.youtube.com/watch?v=TG5fry_Nr0M)
 - [MoU signing for the Digital Nerve Center](https://www.youtube.com/watch?v=YuZcmGeAHDA)
-- [IIT Guwahati incubated #startup ‘Quant Solar’ pioneers Floating Solar Technology #iitguwahati](https://www.youtube.com/watch?v=2W44HLz28CA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
