@@ -21,8 +21,8 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Research stories : Architects of Sustainable Solutions for a Greener Tomorrow, #iitguwahati](https://www.youtube.com/watch?v=p2WSV4K2vx4)
 - [75th Republic Day Celebration at IIT Guwahati, 26 Jan, 2024](https://www.youtube.com/watch?v=KDFzfiTG9Gs)
+- [Research stories : Architects of Sustainable Solutions for a Greener Tomorrow, #iitguwahati](https://www.youtube.com/watch?v=p2WSV4K2vx4)
 - [ENTREPRENEURSHIP &amp; RURAL DEVELOPMENT CONCLAVE 2024](https://www.youtube.com/watch?v=hsuXbwjE0Kw)
 - [IIT Guwahati successfully hosted 3311 students under #Arohan to promote STEM Education in Assam.](https://www.youtube.com/watch?v=5VmKHZSoBzw)
 - [Research Stories: #iitguwahati&#39;s BRAHMA-2D Model Revolutionizes Hydraulic Design for SRM](https://www.youtube.com/watch?v=TG5fry_Nr0M)
