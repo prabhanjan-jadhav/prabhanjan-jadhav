@@ -21,9 +21,9 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 2](https://www.youtube.com/watch?v=ArZLLH_p_yM)
 - [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 1](https://www.youtube.com/watch?v=w_kBVQluBJQ)
 - [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 3](https://www.youtube.com/watch?v=YNBKCkMfSAw)
-- [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 2](https://www.youtube.com/watch?v=ArZLLH_p_yM)
 - [Research Stories: #Researchers Develop Cost-Effective Motion Sensor for Healthcare Applications](https://www.youtube.com/watch?v=eB5Es8ufBQo)
 - [Research Stories: Bentonite and Kaolin Clays Make Viruses Ineffectual | #iitguwahati #research](https://www.youtube.com/watch?v=4LBVtBE8CEg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
