@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories: #iitguwahati Pioneers #groundbreaking #speech  Reconstruction #technology](https://www.youtube.com/watch?v=I76btFxCTTw)
 - [Researchers Develop Tailored Solutions Based on Regenerative Therapies for Knee Meniscus Tears](https://www.youtube.com/watch?v=gCGVIB7zewQ)
 - [Viksit Bharat Ambassador Campus Dialogue](https://www.youtube.com/watch?v=I1GujfpAzSU)
 - [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 3](https://www.youtube.com/watch?v=YNBKCkMfSAw)
 - [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 2](https://www.youtube.com/watch?v=ArZLLH_p_yM)
-- [4th International Conference on River Corridor Research and Management &lpar;RCRM&rpar;, 2024 – Day 1](https://www.youtube.com/watch?v=w_kBVQluBJQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
