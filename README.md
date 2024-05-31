@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [An interactive session with German representatives from the manufacturin &amp; healthcare sectors](https://www.youtube.com/watch?v=FpJPrvTymJo)
 - [Research Stories: #iitguwahati Develop an optical driving process to produce Nanopatterns](https://www.youtube.com/watch?v=tY5AbEj49wA)
 - [India&#39;s Progressive Path in the Administration of Criminal Justice System](https://www.youtube.com/watch?v=w3wW8wmUzQ4)
 - [Research Stories: #iitguwahati #researchers Develop High-Performance Materials for #supercapacitor](https://www.youtube.com/watch?v=94sEU0jeIlU)
 - [Semiconductor Horizons Workshop](https://www.youtube.com/watch?v=94Vti8ZbZkQ)
-- [Research Stories: #iitguwahati Pioneers #groundbreaking #speech  Reconstruction #technology](https://www.youtube.com/watch?v=I76btFxCTTw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
