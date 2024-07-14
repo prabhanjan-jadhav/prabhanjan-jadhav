@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [26th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=d0M33vRhlrs)
 - [10th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=Cm2XUoXhDsE)
 - [IIT Guwahati Open House for the JEE &lpar;Advanced&rpar; 2024](https://www.youtube.com/watch?v=DPK_uentORU)
 - [IIT Guwahati, URSC/ISRO, University of Mumbai, and TIFR studied black hole binary using AstroSat](https://www.youtube.com/watch?v=hQpaqOG2N7s)
 - [An interactive session with German representatives from the manufacturin &amp; healthcare sectors](https://www.youtube.com/watch?v=FpJPrvTymJo)
+- [Research Stories: #iitguwahati Develop an optical driving process to produce Nanopatterns](https://www.youtube.com/watch?v=tY5AbEj49wA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
