@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories: Researchers Discover RNA-Destroying Function of the p30 Protein in ASF Virus](https://www.youtube.com/watch?v=_gpa3laTQUU)
 - [26th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=CiUELz4qc5M)
 - [#convocation Address by Padma Shri awardee Dr Sridhar Vembu in the 26th Convocation of #iitguwahati](https://www.youtube.com/watch?v=UWlJ9pTVYXg)
 - [10th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=Cm2XUoXhDsE)
 - [IIT Guwahati Open House for the JEE &lpar;Advanced&rpar; 2024](https://www.youtube.com/watch?v=DPK_uentORU)
-- [IIT Guwahati, URSC/ISRO, University of Mumbai, and TIFR studied black hole binary using AstroSat](https://www.youtube.com/watch?v=hQpaqOG2N7s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
