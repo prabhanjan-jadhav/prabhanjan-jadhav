@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [78th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2024](https://www.youtube.com/watch?v=P-_Gno2EO6o)
 - [Research Stories: Researchers at #iitguwahati develops ‘LEAP’: Advanced Machine Learning Framework](https://www.youtube.com/watch?v=uESLoIU1XAU)
 - [Lecture by Bharat Ratna Professor C.N.R. RAO at #iitguwahati on 01 August 2015 - Part 2](https://www.youtube.com/watch?v=69hhrwFUsM4)
 - [Lecture by Bharat Ratna Professor C.N.R. RAO at #iitguwahati on 01 August 2015 - Part 1](https://www.youtube.com/watch?v=xf5qg15UyTM)
 - [Teachers&#39; Day celebration @IITGuwahatiOfficialat #iitguwahati - 2016](https://www.youtube.com/watch?v=KW8SwhIThwc)
-- [78th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2024](https://www.youtube.com/watch?v=P-_Gno2EO6o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
