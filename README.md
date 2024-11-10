@@ -21,7 +21,7 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Wellbeing of Campus Community: Strategic Support form Apollo Hospital, Guwahati](https://www.youtube.com/watch?v=18ljWhJZjyY)
+- [Wellbeing of Campus Community: Strategic Support from Apollo Hospital, Guwahati](https://www.youtube.com/watch?v=18ljWhJZjyY)
 - [#iitguwahati Research Sheds Light on #bilingualism : Cultural Cues in Non-Western Contexts](https://www.youtube.com/watch?v=mF8RQ7AHSxQ)
 - [#iitguwahati Innovators Develop Customizable Space-Saving Furniture for Compact Homes](https://www.youtube.com/watch?v=-XPigvodfmU)
 - [Research Stories:IIT Guwahati &amp; ISRO Studies Challenges Existing Theories.](https://www.youtube.com/watch?v=tmw_G-PcJr4)
