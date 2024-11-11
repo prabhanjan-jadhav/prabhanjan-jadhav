@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [#iitguwahati Researchers Develop Sustainable Method for Ammonium Removal from Wastewater](https://www.youtube.com/watch?v=0l_6vlCvQoc)
 - [Wellbeing of Campus Community: Strategic Support from Apollo Hospital, Guwahati](https://www.youtube.com/watch?v=18ljWhJZjyY)
 - [#iitguwahati Research Sheds Light on #bilingualism : Cultural Cues in Non-Western Contexts](https://www.youtube.com/watch?v=mF8RQ7AHSxQ)
 - [#iitguwahati Innovators Develop Customizable Space-Saving Furniture for Compact Homes](https://www.youtube.com/watch?v=-XPigvodfmU)
 - [Research Stories:IIT Guwahati &amp; ISRO Studies Challenges Existing Theories.](https://www.youtube.com/watch?v=tmw_G-PcJr4)
-- [78th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2024](https://www.youtube.com/watch?v=P-_Gno2EO6o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
