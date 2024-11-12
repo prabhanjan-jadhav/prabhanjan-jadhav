@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [#iitguwahati Researchers Develop Sustainable Method for Ammonium Removal from Wastewater](https://www.youtube.com/watch?v=0l_6vlCvQoc)
-- [Wellbeing of Campus Community: Strategic Support from Apollo Hospital, Guwahati](https://www.youtube.com/watch?v=18ljWhJZjyY)
-- [#iitguwahati Research Sheds Light on #bilingualism : Cultural Cues in Non-Western Contexts](https://www.youtube.com/watch?v=mF8RQ7AHSxQ)
-- [#iitguwahati Innovators Develop Customizable Space-Saving Furniture for Compact Homes](https://www.youtube.com/watch?v=-XPigvodfmU)
-- [Research Stories:IIT Guwahati &amp; ISRO Studies Challenges Existing Theories.](https://www.youtube.com/watch?v=tmw_G-PcJr4)
+- [Leadership Summit, 2024 at #iitguwahati DAY-2, Part-6](https://www.youtube.com/watch?v=J4cr54YCXxw)
+- [Leadership Summit, 2024 at #iitguwahati DAY-2, Part-5](https://www.youtube.com/watch?v=y22OfGcIwDQ)
+- [Leadership Summit, 2024 at #iitguwahati DAY-2, Part-4](https://www.youtube.com/watch?v=GyzIGt4MsG8)
+- [Leadership Summit, 2024 at #iitguwahati DAY-2, Part-3](https://www.youtube.com/watch?v=CzuSKYi5-7A)
+- [Leadership Summit, 2024 at #iitguwahati DAY-2, Part-2](https://www.youtube.com/watch?v=wQnFA6-9nxc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
