@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [IIT Guwahati Develops Sustainable Geopolymer to Transform Industrial Waste](https://www.youtube.com/watch?v=2OMR8cIl0eU)
 - [Leadership Summit, 2024 : Valedictory Session and Award Distribution : DAY-2, Part-6](https://www.youtube.com/watch?v=J4cr54YCXxw)
 - [Leadership Summit, 2024:Keynote Address on Fundamental Aspects of Organizational Success:D-2, Part-5](https://www.youtube.com/watch?v=y22OfGcIwDQ)
 - [Leadership Summit, 2024 : Career Prospects in BNY : DAY-2, Part-4](https://www.youtube.com/watch?v=GyzIGt4MsG8)
 - [Leadership Summit, 2024 : Panel Discussion on Rising Stars: DAY-2, Part-3](https://www.youtube.com/watch?v=CzuSKYi5-7A)
-- [Leadership Summit, 2024 : Keynote Address on Carrier Prospects in Energy Sector: DAY-2, Part-2](https://www.youtube.com/watch?v=wQnFA6-9nxc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
