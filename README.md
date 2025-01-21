@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [76th Republic Day Celebration at IIT Guwahati, 26 Jan, 2025](https://www.youtube.com/watch?v=kCHq69BxNRs)
 - [Research Stories:#researchers Advances #cholesterol  &amp; Triglyceride Detection with Advanced Nanotech](https://www.youtube.com/watch?v=hXIgNjYCD0I)
 - [#iitguwahati #researchers  Develop Innovative Injectable Hydrogel for Targeted #breastcancer Therapy](https://www.youtube.com/watch?v=8BNswuQQWvc)
 - [Research Stories:Researchers Develops Technology to Convert Methane &amp; CO2 into Eco-Friendly Biofuel](https://www.youtube.com/watch?v=6_AACwXBPS4)
 - [IIT Guwahati Develops Sustainable Geopolymer to Transform Industrial Waste](https://www.youtube.com/watch?v=2OMR8cIl0eU)
-- [Leadership Summit, 2024 : Valedictory Session and Award Distribution : DAY-2, Part-6](https://www.youtube.com/watch?v=J4cr54YCXxw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
