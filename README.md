@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories : Adaptive Multi-Stage Clinical Trial Method for Personalised #medicalcare](https://www.youtube.com/watch?v=BuvFiksfIVg)
 - [Research Stories: State-of-the-Art Nanomaterial for Mercury Detection in Cells &amp; Environment](https://www.youtube.com/watch?v=m-t0563iNhc)
 - [76th Republic Day Celebration at IIT Guwahati, 26 Jan, 2025](https://www.youtube.com/watch?v=kCHq69BxNRs)
 - [Research Stories:#researchers Advances #cholesterol  &amp; Triglyceride Detection with Advanced Nanotech](https://www.youtube.com/watch?v=hXIgNjYCD0I)
 - [#iitguwahati #researchers  Develop Innovative Injectable Hydrogel for Targeted #breastcancer Therapy](https://www.youtube.com/watch?v=8BNswuQQWvc)
-- [Research Stories:Researchers Develops Technology to Convert Methane &amp; CO2 into Eco-Friendly Biofuel](https://www.youtube.com/watch?v=6_AACwXBPS4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
