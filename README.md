@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories: #iitguwahati&#39;s #scientists Use Fruit Waste to Treat #polluted  #wastewater](https://www.youtube.com/watch?v=0mj4WVlac9Q)
 - [Research Stories: Traditional Assamese Fermented Food for Sustainable Industrial Applications](https://www.youtube.com/watch?v=3THi7diV-3k)
 - [Research Stories: #iitguwahati Innovates Self-Cleaning, Flexible Heating Fabric for Cold Climates](https://www.youtube.com/watch?v=zpG8Dp14_A8)
 - [Research Stories : Adaptive Multi-Stage Clinical Trial Method for Personalised #medicalcare](https://www.youtube.com/watch?v=BuvFiksfIVg)
 - [Research Stories: State-of-the-Art Nanomaterial for Mercury Detection in Cells &amp; Environment](https://www.youtube.com/watch?v=m-t0563iNhc)
-- [76th Republic Day Celebration at IIT Guwahati, 26 Jan, 2025](https://www.youtube.com/watch?v=kCHq69BxNRs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
