@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [11th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=gHQdNWxmaDo)
 - [Research Stories: IIT Guwahati Harnesses Clay Sedimentation to identify and measure Coronavirus](https://www.youtube.com/watch?v=kp5Bh4CB09I)
 - [IIT Guwahati Open House for the JEE &lpar;Advanced&rpar; 2025](https://www.youtube.com/watch?v=A9wr_eDxKwc)
 - [Research Stories: #IITGuwahati Develops Fluorescent Sensor to Detect Cyanide in Water &amp; Human Cells](https://www.youtube.com/watch?v=RuaOyxQyCYo)
 - [Research Stories: #iitguwahati Engineers Sustainable Solution for #wastewater &amp; #oilspill Treatment](https://www.youtube.com/watch?v=cMM7aZAg9Kc)
-- [Research Stories:Thermal Performance of light weight Concrete lattice Walls with 3D printing tech.](https://www.youtube.com/watch?v=Zf7aHF-4zSE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
