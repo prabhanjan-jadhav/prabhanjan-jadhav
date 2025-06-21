@@ -21,8 +21,8 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Research Stories: #IITGuwahati develops water treatment system that removes fluoride &amp; Iron](https://www.youtube.com/watch?v=Btb4N9C6pig)
 - [11th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=gHQdNWxmaDo)
+- [Research Stories: #IITGuwahati develops water treatment system that removes fluoride &amp; Iron](https://www.youtube.com/watch?v=Btb4N9C6pig)
 - [Research Stories: IIT Guwahati Harnesses Clay Sedimentation to identify and measure Coronavirus](https://www.youtube.com/watch?v=kp5Bh4CB09I)
 - [IIT Guwahati Open House for the JEE &lpar;Advanced&rpar; 2025](https://www.youtube.com/watch?v=A9wr_eDxKwc)
 - [Research Stories: #IITGuwahati Develops Fluorescent Sensor to Detect Cyanide in Water &amp; Human Cells](https://www.youtube.com/watch?v=RuaOyxQyCYo)
