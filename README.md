@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [27th Convocation of IIT Guwahati: Session - I](https://www.youtube.com/watch?v=3nfy5x68xJw)
 - [27th Convocation of IIT Guwahati](https://www.youtube.com/watch?v=qTaTW2vW8Jc)
 - [11th International Yoga Day: IIT Guwahati](https://www.youtube.com/watch?v=gHQdNWxmaDo)
 - [Research Stories: #IITGuwahati develops water treatment system that removes fluoride &amp; Iron](https://www.youtube.com/watch?v=Btb4N9C6pig)
 - [Research Stories: IIT Guwahati Harnesses Clay Sedimentation to identify and measure Coronavirus](https://www.youtube.com/watch?v=kp5Bh4CB09I)
-- [IIT Guwahati Open House for the JEE &lpar;Advanced&rpar; 2025](https://www.youtube.com/watch?v=A9wr_eDxKwc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
