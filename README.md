@@ -21,7 +21,7 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [27th Convocation of IIT Guwahati: Session - III](https://www.youtube.com/watch?v=l-nOt__5fio)
+- [27th Convocation of IIT Guwahati: Session - III](https://www.youtube.com/watch?v=yguX9DY4NZs)
 - [27th Convocation of IIT Guwahati: Session - IV](https://www.youtube.com/watch?v=2RgljRBHdxw)
 - [27th Convocation of IIT Guwahati: Session - II](https://www.youtube.com/watch?v=JYno4ZSixOM)
 - [27th Convocation of IIT Guwahati: Session - I](https://www.youtube.com/watch?v=3nfy5x68xJw)
