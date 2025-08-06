@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [79th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2025](https://www.youtube.com/watch?v=hvS5o0Ksmgo)
 - [Research Stories:#iitguwahati Develops DL-Based Sensor to Turn exhaling air from mouth into VC.](https://www.youtube.com/watch?v=11SZtx4Nvdw)
 - [Research Stories: #iitguwahati Converts Local Bamboo into High-performance Automotive Materials](https://www.youtube.com/watch?v=fMVNuyyp1TM)
 - [Welcome Programme for the New BTech, BDes and BS Students Admitted in July 2025](https://www.youtube.com/watch?v=ojmOTmWT6uI)
 - [27th Convocation of IIT Guwahati: Session - III](https://www.youtube.com/watch?v=yguX9DY4NZs)
-- [27th Convocation of IIT Guwahati: Session - IV](https://www.youtube.com/watch?v=2RgljRBHdxw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
