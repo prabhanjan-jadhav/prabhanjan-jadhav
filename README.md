@@ -21,7 +21,7 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Research Stories: #iitguwahati secures Patent for Innovative Insulin Production System](https://www.youtube.com/watch?v=2NECpulYdh4)
+- [Research Stories: #iitguwahati secures Patent for Innovative Insulin Production System](https://www.youtube.com/watch?v=TyumZ8T8ShY)
 - [#iitguwahati creates Nanosensor for Instant Detection of Cancer-Causing Water Pollutants](https://www.youtube.com/watch?v=J7dX9r-3LSc)
 - [79th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2025](https://www.youtube.com/watch?v=hvS5o0Ksmgo)
 - [Research Stories:#iitguwahati Develops DL-Based Sensor to Turn exhaling air from mouth into VC.](https://www.youtube.com/watch?v=11SZtx4Nvdw)
