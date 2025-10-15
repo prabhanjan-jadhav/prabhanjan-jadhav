@@ -21,7 +21,7 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP SERIES](https://www.youtube.com/watch?v=oqwEaIATaI4)
+- [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP SERIES](https://www.youtube.com/watch?v=qKxo5lxTd9Q)
 - [Research Stories: #iitguwahati secures Patent for Innovative Insulin Production System](https://www.youtube.com/watch?v=TyumZ8T8ShY)
 - [#iitguwahati creates Nanosensor for Instant Detection of Cancer-Causing Water Pollutants](https://www.youtube.com/watch?v=J7dX9r-3LSc)
 - [79th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2025](https://www.youtube.com/watch?v=hvS5o0Ksmgo)
