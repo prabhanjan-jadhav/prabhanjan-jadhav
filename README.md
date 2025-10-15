@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP SERIES](https://www.youtube.com/watch?v=oqwEaIATaI4)
 - [Research Stories: #iitguwahati secures Patent for Innovative Insulin Production System](https://www.youtube.com/watch?v=TyumZ8T8ShY)
 - [#iitguwahati creates Nanosensor for Instant Detection of Cancer-Causing Water Pollutants](https://www.youtube.com/watch?v=J7dX9r-3LSc)
 - [79th Indian Independence Day Celebrations at IIT Guwahati, 15 Aug, 2025](https://www.youtube.com/watch?v=hvS5o0Ksmgo)
 - [Research Stories:#iitguwahati Develops DL-Based Sensor to Turn exhaling air from mouth into VC.](https://www.youtube.com/watch?v=11SZtx4Nvdw)
-- [Research Stories: #iitguwahati Converts Local Bamboo into High-performance Automotive Materials](https://www.youtube.com/watch?v=fMVNuyyp1TM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
