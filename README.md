@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Research Stories: #iitguwahati Pioneer Eco-Friendly Solution for Lead Removal Using Microorganisms](https://www.youtube.com/watch?v=viu1TJ_iOIs)
 - [Research Stories: #researchers Develop Novel Material to Detect Fuel Adulteration &amp; Clean Oil Spills](https://www.youtube.com/watch?v=CzXQJ9kyGAE)
 - [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP DAY -2](https://www.youtube.com/watch?v=zT3UpOuKSuU)
 - [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP SERIES](https://www.youtube.com/watch?v=qKxo5lxTd9Q)
 - [Research Stories: #iitguwahati secures Patent for Innovative Insulin Production System](https://www.youtube.com/watch?v=TyumZ8T8ShY)
-- [#iitguwahati creates Nanosensor for Instant Detection of Cancer-Causing Water Pollutants](https://www.youtube.com/watch?v=J7dX9r-3LSc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
