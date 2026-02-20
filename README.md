@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DAE–C. V. Raman Lecture &lpar;2025–26&rpar;](https://www.youtube.com/watch?v=vok1J7sJpbg)
 - [Research Stories: IIT Guwahati and UK Universities develop a Machine Learning based framework.](https://www.youtube.com/watch?v=j1BeYFD5wqY)
 - [77th Republic Day Celebration at IIT Guwahati, 26 Jan, 2026](https://www.youtube.com/watch?v=AfnOTYRbAUs)
 - [Research Stories: #iitguwahati Pioneer Eco-Friendly Solution for Lead Removal Using Microorganisms](https://www.youtube.com/watch?v=viu1TJ_iOIs)
 - [Research Stories: #researchers Develop Novel Material to Detect Fuel Adulteration &amp; Clean Oil Spills](https://www.youtube.com/watch?v=CzXQJ9kyGAE)
-- [Ease of Doing R&amp;D For Accelerating Scientific Growth Of The Sates/UTs | NITI-STATE WORKSHOP DAY -2](https://www.youtube.com/watch?v=zT3UpOuKSuU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
