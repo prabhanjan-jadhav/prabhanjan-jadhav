@@ -21,11 +21,11 @@
 
 ##### Some videos from IITG's YouTube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [NPTEL Awareness Workshop - 26th May 2026, IIT Guwahati](https://www.youtube.com/watch?v=esUIm9eK2Co)
 - [Research Stories: IIT Guwahati Innovation Boosts Green Hydrogen Production Efficiency by Over 50%](https://www.youtube.com/watch?v=c902i0dmblI)
 - [Research Stories: #iitguwahati Develops Smart, Naturally Cooling Bricks for Sustainable Architecture](https://www.youtube.com/watch?v=YJvPy-F9G2k)
 - [Research Stories:#iitguwahati Develops Radiation-Resistant Cement Mortar for Safer NuclearFacilities](https://www.youtube.com/watch?v=HoS2HWL-F1E)
 - [DAE–C. V. Raman Lecture &lpar;2025–26&rpar;](https://www.youtube.com/watch?v=vok1J7sJpbg)
+- [Research Stories: IIT Guwahati and UK Universities develop a Machine Learning based framework.](https://www.youtube.com/watch?v=j1BeYFD5wqY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <p align="left">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
