@@ -1,17 +1,12 @@
 <h1 align="center">Hi there, I'm Prabhanjan Jadhav 👋</h1>
 
 <p align="center">
-  <strong>B.Tech in Electronics and Communication Engineering | IIT Guwahati</strong>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/prabhanjan-jadhav/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:prabhanjanbj699@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=prabhanjan-jadhav&color=blueviolet" alt="Profile Views">
 </p>
 
 ---
@@ -69,7 +64,6 @@ Full-stack developer and AI enthusiast passionate about building **scalable dist
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhanjan-jadhav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=prabhanjan-jadhav&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
